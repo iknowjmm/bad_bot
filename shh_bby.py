@@ -1,1 +1,1 @@
-print 'it's ok
+print 'it's ok'
